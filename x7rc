@@ -1,0 +1,16 @@
+export ENGINE_PASSWORD="tomato"
+export ENGINE_PROJECT_ID="admin"
+export ENGINECLIENT_DEBUG="1"
+export ENGINE_REGION_NAME="RegionOne"
+export ENGINE_VERSION="1.1"
+export ENGINE_USERNAME="admin"
+export ENGINE_API_KEY="tomato"
+export ENGINE_URL="http://192.168.1.10:5000/v2.0/"
+export ENGINE_AUTH_URL="http://192.168.1.10:5000/v2.0/"
+
+export OS_AUTH_USER="admin"
+export OS_AUTH_STRATEGY="keystone"
+export OS_AUTH_URL="http://192.168.1.10:5000/v2.0/"
+export OS_AUTH_TENANT="admin"
+export OS_AUTH_KEY="tomato"
+
